@@ -28,7 +28,7 @@ Welcome to the world of the Smart Water Dispenser - an exciting research adventu
 1. Clone the repository to your computer - the journey begins! 🌟
 2. Connect the NTC thermistors to your Arduino board under the guidance of the tech wizards.
 3. Unleash the power of 12V DC motors, setting the flow of water from the mystical tanks. 🌀
-4. Upload the Arduino code (`smart_water_dispenser.ino`) and watch the magic unfold! 🪄
+4. Upload the Arduino code (`AS2019907.ino`) and watch the magic unfold! 🪄
 5. Interact with the dispenser via the Serial monitor, enchanting it with your desired temperature.
 6. Witness the captivating moment when the system automatically mixes the water of your dreams! 🌈🍹
 
