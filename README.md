@@ -52,4 +52,5 @@ This project is graciously licensed under the GNU General Public License version
 ## 🌊 Embrace the Magic of Water! 🌊
 
 The Smart Water Dispenser offers a delightful mix of technology and innovation, ensuring you get the perfect sip every time! Quench your thirst for knowledge and dive into the captivating world of this individual project. Celebrate the power of inspiration and the unwavering support that fueled this journey! 🌟💧
-![Smart Water Dispenser Demo](images/smart_water_dispenser_demo.gif)
+
+![Smart Water Dispenser Demo](https://github.com/Thiromi97/smart_water_mixture/blob/main/demo_AdobeExpress.gif?raw=true)
