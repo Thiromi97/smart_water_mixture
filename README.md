@@ -10,7 +10,11 @@ Hi there! I'm [Thiromi](https://www.linkedin.com/in/thiromi-dasanayaka-307441250
 🔗 **LinkedIn**: [https://www.linkedin.com/in/thiromi-dasanayaka-307441250/](https://www.linkedin.com/in/thiromi-dasanayaka-307441250/)
 # Smart Water Dispenser - Research Adventure 🚀💧
 
-![Smart Water Dispenser](images/smart_water_dispenser.jpg)
+<!-- Add the following HTML code to your README.md file -->
+<p align="left">
+  <img src="https://github.com/Thiromi97/smart_water_mixture/blob/main/water.png?raw=true" width="200" height="200" alt="Project Logo" style="border-radius: 50%;">
+</p>
+
 
 ## A Refreshing Innovation for Your Thirst!
 Welcome to the world of the Smart Water Dispenser - an exciting research adventure that brings you water at any desired temperature! 🌡️💦 Say goodbye to settling for lukewarm or ice-cold water. With two NTC thermistors, two water tanks, and two dynamic DC motors, this project is all about delivering your perfect sip of water! 😍
